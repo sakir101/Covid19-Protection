@@ -1,0 +1,2 @@
+connect to 5v the red wire
+PWM- Pulse wight Modulation (Pin- 3, 5, 6, 9, 10 & 11)
